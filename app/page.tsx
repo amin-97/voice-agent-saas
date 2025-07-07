@@ -4,7 +4,7 @@ import React from "react";
 const Page = () => {
   return (
     <div>
-      <h1 className="text-2xl underline">W</h1>
+      <h1 className="text-2xl underline"></h1>
       <Button></Button>
     </div>
   );
